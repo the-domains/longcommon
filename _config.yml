@@ -1,0 +1,23 @@
+name: Longcommon
+favicon: null
+layout_spectrum: 0.24004225386306643
+typography_spectrum: 0.2266089809127152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.32236029021441936
+  lightness: 0.4094267867039889
+  saturation: 0.9626985376235098
+  rhythmicContrast: 0.8730760638136417
+purpose: []
